@@ -1,6 +1,6 @@
 # docker-compose-laravel
 
-Um ambiente de desenvolvimento simplificado em docker, com uma rede LEMP de containers para o desenvolvimento local do Laravel.
+Um ambiente de desenvolvimento simplificado em docker, com uma rede LEMP de containers para o desenvolvimento local de um aplicativo em  Laravel.
 
 ## Como usar
 
